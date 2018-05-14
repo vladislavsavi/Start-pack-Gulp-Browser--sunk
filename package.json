@@ -1,0 +1,24 @@
+{
+  "name": "start-pack-gulp-browser--sunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislavsavi/Start-pack-Gulp-Browser--sunk.git"
+  },
+  "author": "vladislavsavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislavsavi/Start-pack-Gulp-Browser--sunk/issues"
+  },
+  "homepage": "https://github.com/vladislavsavi/Start-pack-Gulp-Browser--sunk#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
